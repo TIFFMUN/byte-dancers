@@ -9,7 +9,10 @@
   <a href="https://tiktokhackathonchallenge2024.devpost.com/">TikTok Hackathon Challenge 2024</a>
 
 ## 👋🏻 Introducing `CrypTok`!
-
+<p align="center">  
+  <img src="https://github.com/TIFFMUN/byte-dancers/blob/main/CrypTok.png?raw=true" alt="TikTokPay Splash Screen" height="400" />
+</p>
+  
 Overview
 CrypTok is an innovative application designed to enable secure transactions on the TikTok Shop using cryptocurrency. Leveraging blockchain technology, CrypTok ensures that each transaction is safe, transparent, and immutable. The app allows users to purchase items using popular cryptocurrencies like Ethereum, bypassing the need for traditional credit or debit cards. This approach promotes financial inclusion by providing a secure alternative for those without access to traditional banking services.
 
