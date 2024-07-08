@@ -6,7 +6,7 @@
 <h4 align="center">
   <b>Inclusion of the UnBanked - Where Innovation Meets Security for Seamless Transactions</b>
   <br /><br />
-  <a href="https://tiktokhackathonchallenge2024.devpost.com/">TikTok Hackathon Challenge 2024</a>
+  <a href="[https://tiktokhackathonchallenge2024.devpost.com](https://tiktoktechjam2024.devpost.com/)/">TikTok Hackathon Challenge 2024</a>
 
 ## 👋🏻 Introducing `CrypTok`!
 <p align="center">  
